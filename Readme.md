@@ -1,4 +1,4 @@
-# Expaple simple todo app
+# An example of a simple todo application
 Simple demonstration of a crud app built with flask, sqlite and using the ORM provided by SQLAlchemy
 
 ## How to run
